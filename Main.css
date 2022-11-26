@@ -10,6 +10,7 @@
 .Navbar{
 display:flex;
 justify-content: space-around;
+align-items: center;
 }
 .Navbar-right{
     display: flex;
